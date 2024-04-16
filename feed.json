@@ -1,0 +1,37 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Scattering Flowers",
+	"icon": "https://micro.blog/LSON/avatar.jpg",
+	"home_page_url": "https://scatteringflowers.com/",
+	"feed_url": "https://scatteringflowers.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/04/16/tuesday-april.html",
+				"title": "3. Tuesday, April 16 2024 🎙️",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from John 6:30-35.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from John 6:30-35.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/67d993a349.mp3\" preload=\"metadata\"><p><a href=\"https://scatteringflowers.com/transcripts/2024/04/16/1036.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-04-16T07:34:37-04:00",
+				"url": "https://scatteringflowers.com/2024/04/16/tuesday-april.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/04/15/monday-april.html",
+				"title": "2. Monday, April 15 2024 🎙️",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from John 6:22-29.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from John 6:22-29. \n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/fb22780d65.mp3\" preload=\"metadata\"><p><a href=\"https://scatteringflowers.com/transcripts/2024/04/15/1034.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-04-15T06:33:27-04:00",
+				"url": "https://scatteringflowers.com/2024/04/15/monday-april.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/04/13/pilot-episode-scattering.html",
+				"title": "1. Pilot Episode! - Scattering Flowers 🎙️",
+				"content_html": "<p>Welcome to the Pilot Episode of Scattering Flowers! Today I talk about what my podcast is all about. Thanks for listening!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to the Pilot Episode of Scattering Flowers! Today I talk about what my podcast is all about. Thanks for listening!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/1e496a93ec.mp3\" preload=\"metadata\"><p><a href=\"https://scatteringflowers.com/transcripts/2024/04/13/1029.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-04-13T16:04:16-04:00",
+				"url": "https://scatteringflowers.com/2024/04/13/pilot-episode-scattering.html",
+				"tags": ["Daily Readings"]
+			}
+	]
+}
