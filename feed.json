@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://scatteringflowers.micro.blog/2024/09/30/monday-september.html",
+				"title": "122. Monday, September 30, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:46-50.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:46-50.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/8f32f36188.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/09/30/1531.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-09-30T06:40:03-04:00",
+				"url": "https://scatteringflowers.com/2024/09/30/monday-september.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/09/27/friday-september.html",
+				"title": "121. Friday, September 27, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:18-22.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:18-22.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/ed1361c77b.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/09/27/1520.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-09-27T07:30:45-04:00",
+				"url": "https://scatteringflowers.com/2024/09/27/friday-september.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/09/26/thursday-september.html",
+				"title": "120. Thursday, September 26, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:7-9.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:7-9.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/abdb6ff42c.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/09/26/1517.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-09-26T07:54:36-04:00",
+				"url": "https://scatteringflowers.com/2024/09/26/thursday-september.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/09/25/wednesday-september.html",
+				"title": "119. Wednesday, September 25, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:1-6.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 9:1-6.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/2cc75ba796.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/09/25/1511.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-09-25T06:36:18-04:00",
+				"url": "https://scatteringflowers.com/2024/09/25/wednesday-september.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/09/24/tuesday-september.html",
+				"title": "118. Tuesday, September 24, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 8:19-21.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 8:19-21.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/d327ecb9e4.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/09/24/1508.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-09-24T07:40:39-04:00",
+				"url": "https://scatteringflowers.com/2024/09/24/tuesday-september.html",
+				"tags": ["Daily Readings"]
+			},
+			{
 				"id": "http://scatteringflowers.micro.blog/2024/09/23/monday-september.html",
 				"title": "117. Monday, September 23, 2024",
 				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 8:16-18.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
