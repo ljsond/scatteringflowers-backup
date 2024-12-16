@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://scatteringflowers.micro.blog/2024/12/16/monday-december.html",
+				"title": "187. Monday, December 16",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 21:23-27.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 21:23-27.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/940d93cfe0.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/12/16/1733.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-12-16T11:46:01-05:00",
+				"url": "https://scatteringflowers.com/2024/12/16/monday-december.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/12/13/friday-december.html",
+				"title": "186. Friday, December 13, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 11:16-19.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 11:16-19.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/679b5f0990.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/12/13/1723.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-12-13T07:41:38-05:00",
+				"url": "https://scatteringflowers.com/2024/12/13/friday-december.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/12/12/thursday-december.html",
+				"title": "185. Thursday, December 12, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 1:39-47.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Luke 1:39-47.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/d939d1b3f2.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/12/12/1721.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-12-12T08:13:19-05:00",
+				"url": "https://scatteringflowers.com/2024/12/12/thursday-december.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/12/11/wednesday-december.html",
+				"title": "184. Wednesday, December 11, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 11:28-30.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 11:28-30.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/830770c6ff.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/12/11/1716.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-12-11T07:18:58-05:00",
+				"url": "https://scatteringflowers.com/2024/12/11/wednesday-december.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2024/12/10/tuesday-december.html",
+				"title": "183. Tuesday, December 10, 2024",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 18:12-14.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reading is from Matthew 18:12-14.\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2024/5f55e03fa1.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2024/12/10/1714.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-12-10T08:04:37-05:00",
+				"url": "https://scatteringflowers.com/2024/12/10/tuesday-december.html",
+				"tags": ["Daily Readings"]
+			},
+			{
 				"id": "http://scatteringflowers.micro.blog/2024/12/09/monday-december.html",
 				"title": "182. Monday, December 9, 2024",
 				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reading is from Luke 1:26-35.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
