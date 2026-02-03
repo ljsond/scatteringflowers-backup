@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://scatteringflowers.micro.blog/2026/02/03/tuesday-february.html",
+				"title": "503. Tuesday, February 3, 2026",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Psalms 86:1-2.</p>\n<p>The Saint we will be learning about today is Saint Blaise!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Psalms 86:1-2.\n\nThe Saint we will be learning about today is Saint Blaise!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/a860d63cff.mp3\" preload=\"metadata\"></audio>\n",
+				"date_published": "2026-02-03T13:11:29-05:00",
+				"url": "https://scatteringflowers.com/2026/02/03/tuesday-february.html",
+				"tags": ["Daily Readings"]
+			},
+			{
 				"id": "http://scatteringflowers.micro.blog/2026/02/02/monday-february.html",
 				"title": "502. Monday, February 2, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Luke 2:40.</p>\n<p>The Saint we will be learning about today is Saint Simeon!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Luke 2:40.\n\nThe Saint we will be learning about today is Saint Simeon!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/6d94b95c02.mp3\" preload=\"metadata\"></audio>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Luke 2:40.</p>\n<p>The Saint we will be learning about today is Saint Simeon!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Luke 2:40.\n\nThe Saint we will be learning about today is Saint Simeon!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/6d94b95c02.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/02/02/2722.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-02-02T11:07:30-05:00",
 				"url": "https://scatteringflowers.com/2026/02/02/monday-february.html",
 				"tags": ["Daily Readings"]
@@ -46,7 +55,7 @@
 				"id": "http://scatteringflowers.micro.blog/2026/01/27/tuesday-january.html",
 				"title": "498. Tuesday, January 27, 2026",
 				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Mark 3:35.</p>\n<p>The Saint we will be learning about today is Saint Angela!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Mark 3:35.\n\nThe Saint we will be learning about today is Saint Angela!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/a1475dedce.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/01/27/2715.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Mark 3:35.\n\nThe Saint we will be learning about today is Saint Angela!\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/a1475dedce.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/01/27/2715.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-01-27T12:23:33-05:00",
 				"url": "https://scatteringflowers.com/2026/01/27/tuesday-january.html",
 				"tags": ["Daily Readings"]
