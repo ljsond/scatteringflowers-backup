@@ -7,12 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://scatteringflowers.micro.blog/2026/08/15/tuesday-august.html",
+				"title": "639. Tuesday, August 11, 2026",
+				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and we’re still in Rome!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/868084be86.mp3\" preload=\"metadata\"></audio></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and we’re still in Rome!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/868084be86.mp3\" preload=\"metadata\"></audio>\n",
+				"date_published": "2026-08-15T09:59:49-05:00",
+				"url": "https://scatteringflowers.com/2026/08/15/tuesday-august.html",
+				"tags": ["Daily Readings"]
+			},
+			{
+				"id": "http://scatteringflowers.micro.blog/2026/08/10/monday-august.html",
+				"title": "638. Monday, August 10, 2026",
+				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Rome!</p>\n<p>The Saints we will be learning about today are Saints Peter and Paul!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/d048a7f608.mp3\" preload=\"metadata\"></audio></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Rome!\n\nThe Saints we will be learning about today are Saints Peter and Paul!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/d048a7f608.mp3\" preload=\"metadata\"></audio>\n",
+				"date_published": "2026-08-10T09:39:48-05:00",
+				"url": "https://scatteringflowers.com/2026/08/10/monday-august.html",
+				"tags": ["Daily Readings"]
+			},
+			{
 				"id": "http://scatteringflowers.micro.blog/2026/08/10/friday-august.html",
 				"title": "637. Friday, August 7, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is our second day in Assisi!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/987530eb9d.mp3\" preload=\"metadata\"></audio></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is our second day in Assisi!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/987530eb9d.mp3\" preload=\"metadata\"></audio>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is our second day in Assisi!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/987530eb9d.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/10/3148.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is our second day in Assisi!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/987530eb9d.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/10/3148.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-08-10T09:36:59-05:00",
-				"url": "https://scatteringflowers.com/2026/08/10/friday-august.html"
+				"url": "https://scatteringflowers.com/2026/08/10/friday-august.html",
+				"tags": ["Daily Readings"]
 			},
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/08/06/thursday-august.html",
@@ -20,7 +39,8 @@
 				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Assisi!</p>\n<p>The Saint we will be learning about today is Saint Carlo Acutis!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/6b798dbf1a.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/06/3139.html\" class=\"transcript_link\">Transcript</a></p>\n",
 				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Assisi!\n\nThe Saint we will be learning about today is Saint Carlo Acutis!\n\n\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/6b798dbf1a.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/06/3139.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-08-06T20:02:38-05:00",
-				"url": "https://scatteringflowers.com/2026/08/06/thursday-august.html"
+				"url": "https://scatteringflowers.com/2026/08/06/thursday-august.html",
+				"tags": ["Daily Readings"]
 			},
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/08/05/wednesday-august.html",
@@ -28,29 +48,30 @@
 				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Siena!</p>\n<p>The Saint we will be learning about today is Saint Catherine of Siena!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/dbb915b8f2.mp3\" preload=\"metadata\"></audio></p>\n",
 				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and this stop is Siena!\n\nThe Saint we will be learning about today is Saint Catherine of Siena!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/dbb915b8f2.mp3\" preload=\"metadata\"></audio>\n",
 				"date_published": "2026-08-05T08:20:26-05:00",
-				"url": "https://scatteringflowers.com/2026/08/05/wednesday-august.html"
+				"url": "https://scatteringflowers.com/2026/08/05/wednesday-august.html",
+				"tags": ["Daily Readings"]
 			},
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/08/04/tuesday-august.html",
 				"title": "634. Tuesday, August 4, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop is Florence!</p>\n<p>Today we’ll also be learning a bit about the author of Pinocchio, who comes from Florence!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/43d02e5d8e.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/04/3136.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop is Florence!\n\nToday we’ll also be learning a bit about the author of Pinocchio, who comes from Florence!\n\n\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/43d02e5d8e.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/04/3136.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop is Florence!</p>\n<p>Today we’ll also be learning a bit about the author of Pinocchio, who comes from Florence!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/43d02e5d8e.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/04/3136.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop is Florence!\n\nToday we’ll also be learning a bit about the author of Pinocchio, who comes from Florence!\n\n\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/43d02e5d8e.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/04/3136.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-08-04T19:11:57-05:00",
 				"url": "https://scatteringflowers.com/2026/08/04/tuesday-august.html"
 			},
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/08/03/monday-august.html",
 				"title": "633. Monday, August 3, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop, Florence!</p>\n<p>The Saint we will be learning about today is Saint John the Baptist!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/4b77bd7d1a.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/03/3131.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop, Florence!\n\nThe Saint we will be learning about today is Saint John the Baptist!\n\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/4b77bd7d1a.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/03/3131.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop, Florence!</p>\n<p>The Saint we will be learning about today is Saint John the Baptist!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/4b77bd7d1a.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/08/03/3131.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today we will be talking about our trip to Italy earlier this summer, and our first stop, Florence!\n\nThe Saint we will be learning about today is Saint John the Baptist!\n\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/4b77bd7d1a.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/08/03/3131.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-08-03T08:29:45-05:00",
 				"url": "https://scatteringflowers.com/2026/08/03/monday-august.html"
 			},
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/07/30/friday-july.html",
 				"title": "632. Friday, July 31, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 20:30.</p>\n<p>The Saint we will be learning about today is Saint Alphonsus Ligouri!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/40b651c2e2.mp3\" preload=\"metadata\"></audio></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 20:30.\n\nThe Saint we will be learning about today is Saint Alphonsus Ligouri!\n\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/40b651c2e2.mp3\" preload=\"metadata\"></audio>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 20:30.</p>\n<p>The Saint we will be learning about today is Saint Alphonsus Ligouri!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/40b651c2e2.mp3\" preload=\"metadata\"></audio></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 20:30.\n\nThe Saint we will be learning about today is Saint Alphonsus Ligouri!\n\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/40b651c2e2.mp3\" preload=\"metadata\"></audio>\n",
 				"date_published": "2026-07-30T22:40:35-05:00",
 				"url": "https://scatteringflowers.com/2026/07/30/friday-july.html",
 				"tags": ["Daily Readings"]
@@ -571,8 +592,8 @@
 			{
 				"id": "http://scatteringflowers.micro.blog/2026/05/13/tuesday-may.html",
 				"title": "574. Tuesday, May 12, 2026",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Psalm 138:1.</p>\n<p>The Saint we will be learning about today is Saint Pancras!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/4248ac6f47.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/05/13/2939.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Psalm 138:1.\n\nThe Saint we will be learning about today is Saint Pancras!\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2026/4248ac6f47.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/05/13/2939.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from Psalm 138:1.</p>\n<p>The Saint we will be learning about today is Saint Pancras!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/4248ac6f47.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2026/05/13/2939.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from Psalm 138:1.\n\nThe Saint we will be learning about today is Saint Pancras!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2026/4248ac6f47.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2026/05/13/2939.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2026-05-13T08:08:24-05:00",
 				"url": "https://scatteringflowers.com/2026/05/13/tuesday-may.html",
 				"tags": ["Daily Readings"]
@@ -2964,8 +2985,8 @@
 			{
 				"id": "http://scatteringflowers.micro.blog/2025/05/05/monday-may.html",
 				"title": "307. Monday, May 5, 2025",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:27.</p>\n<p>The Saint we will be learning about today is St. Florian!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/e61426feff.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/05/2118.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:27.\n\nThe Saint we will be learning about today is St. Florian!\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/e61426feff.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/05/2118.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:27.</p>\n<p>The Saint we will be learning about today is St. Florian!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/e61426feff.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/05/2118.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:27.\n\nThe Saint we will be learning about today is St. Florian!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/e61426feff.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/05/2118.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-05-05T07:35:01-05:00",
 				"url": "https://scatteringflowers.com/2025/05/05/monday-may.html",
 				"tags": ["Daily Readings"]
@@ -2973,8 +2994,8 @@
 			{
 				"id": "http://scatteringflowers.micro.blog/2025/05/02/friday-may.html",
 				"title": "306. Friday, May 2, 2025",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:1-16.</p>\n<p>The Saint we will be learning about today is St. Athanasius!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/43f2946c86.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/02/2110.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:1-16.\n\nThe Saint we will be learning about today is St. Athanasius!\n\n\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/43f2946c86.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/02/2110.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:1-16.</p>\n<p>The Saint we will be learning about today is St. Athanasius!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/43f2946c86.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/02/2110.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 6:1-16.\n\nThe Saint we will be learning about today is St. Athanasius!\n\n\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/43f2946c86.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/02/2110.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-05-02T07:07:17-05:00",
 				"url": "https://scatteringflowers.com/2025/05/02/friday-may.html",
 				"tags": ["Daily Readings"]
@@ -2982,8 +3003,8 @@
 			{
 				"id": "http://scatteringflowers.micro.blog/2025/05/01/thursday-may.html",
 				"title": "305. Thursday, May 1, 2025",
-				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 3:36.</p>\n<p>The Saint we will be learning about today is St. Peregrine Laziosi!</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/4f0569aa1a.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/01/2109.html\" class=\"transcript_link\">Transcript</a></p>\n",
-				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 3:36. \n\nThe Saint we will be learning about today is St. Peregrine Laziosi!\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/149625/2025/4f0569aa1a.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/01/2109.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Welcome to Scattering Flowers! Today’s gospel reflection is from John 3:36.</p>\n<p>The Saint we will be learning about today is St. Peregrine Laziosi!</p>\n<p><audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/4f0569aa1a.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://scatteringflowers.com/transcripts/2025/05/01/2109.html\" class=\"transcript_link\">Transcript</a></p>\n",
+				"content_text": "Welcome to Scattering Flowers! Today’s gospel reflection is from John 3:36. \n\nThe Saint we will be learning about today is St. Peregrine Laziosi!\n\n<audio controls=\"controls\" src=\"https://scatteringflowers.com/uploads/2025/4f0569aa1a.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://scatteringflowers.com/transcripts/2025/05/01/2109.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-05-01T07:41:06-05:00",
 				"url": "https://scatteringflowers.com/2025/05/01/thursday-may.html",
 				"tags": ["Daily Readings"]
